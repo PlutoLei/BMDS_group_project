@@ -1,0 +1,67 @@
+year,facility_type_a,sex,rate
+2009,Acute,Female,148.70000000000002
+2010,Acute,Female,152.5
+2011,Acute,Female,159.76666666666668
+2012,Acute,Female,160.79999999999998
+2013,Acute,Female,160.96666666666667
+2014,Acute,Female,163.1
+2015,Acute,Female,161.66666666666666
+2016,Acute,Female,174.73333333333335
+2017,Acute,Female,178.23333333333335
+2018,Acute,Female,177.70000000000002
+2019,Acute,Female,181.66666666666666
+2009,Acute,Male,161.93333333333334
+2010,Acute,Male,169.23333333333335
+2011,Acute,Male,174.0666666666667
+2012,Acute,Male,177.6
+2013,Acute,Male,177.96666666666667
+2014,Acute,Male,181.73333333333335
+2015,Acute,Male,182.53333333333333
+2016,Acute,Male,196.76666666666665
+2017,Acute,Male,198.53333333333333
+2018,Acute,Male,199.29999999999998
+2019,Acute,Male,203.66666666666666
+2009,Community Hospitals,Female,5.599999999999999
+2010,Community Hospitals,Female,5.766666666666666
+2011,Community Hospitals,Female,6.0
+2012,Community Hospitals,Female,5.5
+2013,Community Hospitals,Female,5.766666666666667
+2014,Community Hospitals,Female,5.733333333333333
+2015,Community Hospitals,Female,6.2
+2016,Community Hospitals,Female,8.033333333333333
+2017,Community Hospitals,Female,9.033333333333333
+2018,Community Hospitals,Female,9.233333333333333
+2019,Community Hospitals,Female,8.933333333333334
+2009,Community Hospitals,Male,4.733333333333333
+2010,Community Hospitals,Male,5.2
+2011,Community Hospitals,Male,5.166666666666667
+2012,Community Hospitals,Male,4.533333333333333
+2013,Community Hospitals,Male,4.833333333333333
+2014,Community Hospitals,Male,5.0
+2015,Community Hospitals,Male,5.433333333333334
+2016,Community Hospitals,Male,7.166666666666667
+2017,Community Hospitals,Male,8.233333333333333
+2018,Community Hospitals,Male,8.5
+2019,Community Hospitals,Male,8.333333333333334
+2009,Psychiatric Hospitals,Female,1.3666666666666665
+2010,Psychiatric Hospitals,Female,1.3
+2011,Psychiatric Hospitals,Female,1.2333333333333334
+2012,Psychiatric Hospitals,Female,1.0666666666666667
+2013,Psychiatric Hospitals,Female,1.1333333333333335
+2014,Psychiatric Hospitals,Female,1.0999999999999999
+2015,Psychiatric Hospitals,Female,1.2333333333333334
+2016,Psychiatric Hospitals,Female,1.2
+2017,Psychiatric Hospitals,Female,1.2333333333333334
+2018,Psychiatric Hospitals,Female,1.1333333333333333
+2019,Psychiatric Hospitals,Female,1.1666666666666667
+2009,Psychiatric Hospitals,Male,1.9666666666666668
+2010,Psychiatric Hospitals,Male,2.1999999999999997
+2011,Psychiatric Hospitals,Male,2.066666666666667
+2012,Psychiatric Hospitals,Male,1.5666666666666667
+2013,Psychiatric Hospitals,Male,1.5666666666666667
+2014,Psychiatric Hospitals,Male,1.7333333333333334
+2015,Psychiatric Hospitals,Male,1.8666666666666665
+2016,Psychiatric Hospitals,Male,1.8666666666666665
+2017,Psychiatric Hospitals,Male,1.9000000000000001
+2018,Psychiatric Hospitals,Male,1.8999999999999997
+2019,Psychiatric Hospitals,Male,1.9000000000000001
