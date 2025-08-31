@@ -1,0 +1,3 @@
+LogisticRegression: accuracy=0.7381, roc_auc=0.7388
+RandomForest: accuracy=0.6667, roc_auc=0.7176
+SVM(RBF): accuracy=0.7143, roc_auc=0.7247
