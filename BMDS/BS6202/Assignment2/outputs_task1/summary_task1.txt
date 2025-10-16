@@ -1,5 +1,0 @@
-=== TASK 1: Clustering Summary ===
-Samples: 208, Genes: 8793
-PCs for ~90% variance: 51
-Best K (KMeans by silhouette): 2
-Agglomerative (K=2) silhouette: 0.1386
