@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# 模型文件 (太大，不上传到 GitHub)
+*.ckpt
+*.onnx
+
+# PyInstaller (打包生成的文件不上传，通过 Releases 发布)
+# 保留 .spec 配置文件，但排除打包输出
+Segformer_App_Release/build/
+Segformer_App_Release/dist/
+Segformer_App_Release/__pycache__/
+
+# 但保留打包配置和文档
+!Segformer_App_Release/*.spec
+!Segformer_App_Release/*.bat
+!Segformer_App_Release/*.md
+!Segformer_App_Release/*.py
+!Segformer_App_Release/*.txt
+
+# 数据集 (太大，不上传)
+dataset_UWM_GI_Tract_train_valid/
+lightning_logs/
+
+# Gradio
+.gradio/
+gradio_flagged/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
